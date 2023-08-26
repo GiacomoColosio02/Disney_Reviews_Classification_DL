@@ -2,8 +2,7 @@
 ### Answer and Implementation , Giacomo Colosio 509653, 23 June 2023 Session
 
 The following document contains the link to the colab notebook with the
-code for the proposed solution in the exam. The link is: https://colab.
-research.google.com/drive/1UbKpMQPOEYfaXppYh68uubDghe0UIxeq?usp=sharing.
+code for the proposed solution in the exam. The link is: https://colab.research.google.com/drive/1UbKpMQPOEYfaXppYh68uubDghe0UIxeq?usp=sharing.
 
 Notably, the jupyter notebook also contains the theoretichal explanation
 of the inserted code that was included in my solution. I want to specify
